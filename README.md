@@ -1,0 +1,1 @@
+This project is a function that runs multiple linear regression without using built in regression functions in R.  Outputs from the function include: beta coefficients, standard errors, t values, p values, F statistics, plot of observed vs predicted outcome, r2 and adjusted r2
